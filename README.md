@@ -1,1 +1,2 @@
-# lash-booking
+# Wimpernbuchung
+Dies ist eine einfache Terminbuchungsseite.
